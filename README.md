@@ -10,7 +10,7 @@ Vamos usar o puppeteer para emular um navegador e automatizar algumas atividades
 
 -Automatiza autenticação;  
 -Automatiza consulta no site; 
--Documenta consulta com screenshot.
+-Documenta consulta com screenshot;
 -Realiza webscraping dentro do navegador; 
 
 
