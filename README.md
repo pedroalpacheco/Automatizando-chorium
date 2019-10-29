@@ -1,6 +1,6 @@
 # Automatizando-chorium
 
-![](https://gifs.com/gif/automatiza-navegador-oVXMoN)
+![](https://j.gifs.com/oVXMoN.gif)
 
 
 **Extrai dados de um site usando nodejs e salvar o resultado em arquivo csv.**
