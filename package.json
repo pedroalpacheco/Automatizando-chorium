@@ -1,0 +1,24 @@
+{
+  "name": "Automatizando-chorium",
+  "version": "1.0.0",
+  "description": "Uma demonstração do potêncial de automação de navegador utilizando puppeteer e nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/Automatizando-chorium.git"
+  },
+  "keywords": [],
+  "author": "PedroAlPacheco <pedro.pacheco.a@gmail.com> (https://github.com/pedroalpacheco/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/Automatizando-chorium/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/Automatizando-chorium#readme",
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "puppeteer": "^2.0.0"
+  }
+}
