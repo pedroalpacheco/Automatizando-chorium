@@ -3,7 +3,7 @@
 ![](https://j.gifs.com/oVXMoN.gif)
 
 
-**Extrai dados de um site usando nodejs e salvar o resultado em arquivo csv.**
+**Automatizando-chorium.**
 
 Neste vídeo mostro como é fácil automatizar autenticação, consulta e webscraping utilizando nodejs e puppeteer.
 Vamos usar o puppeteer para emular um navegador e automatizar algumas atividades manuais executadas no navegador chrome ou chromium. 
